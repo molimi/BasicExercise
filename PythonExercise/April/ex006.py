@@ -1,10 +1,9 @@
 """
 Version: 0.1
 Author: CarpeDiem
-Date: 2022/4/14
+Date: 2022/4/15
 Description: 输出数字换个格式
 """
-
 
 number = int(input())
 b = number // 100
