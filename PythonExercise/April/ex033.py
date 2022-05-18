@@ -2,7 +2,7 @@
 Version: 0.1
 Author: CarpeDiem
 Date: 2022/5/4
-Description: 打印字符
+Description: 打印字符，这里我没有考虑空格好像也通过测试了
 """
 str1 = list(input().lower())
 str2 = input()

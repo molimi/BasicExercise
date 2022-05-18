@@ -3,6 +3,7 @@ Version: 0.1
 Author: CarpeDiem
 Date: 2022/5/4
 Description: 完美数列
+Tips：可以一部分一部分搜索
 """
 
 # 思路一：暴力搜索法

@@ -3,6 +3,7 @@ Version: 0.1
 Author: CarpeDiem
 Date: 2022/5/4
 Description: 分数测试
+Tips：引入sys进行读入
 """
 
 import sys
